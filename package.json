@@ -1,0 +1,12 @@
+{
+  "name": "AVALIAR",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "heic-convert": "^1.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
